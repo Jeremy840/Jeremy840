@@ -1,6 +1,6 @@
 <img src="GitHubbanner.gif" width="1200" height="250" />
 
-## 💫 About Me:
+## 👤 About Me:
 Hi, I'm Jeremy Buss  
 I’m a 5th-year Electrical Engineering student at UBC Okanagan with a minor in Computer Science, graduating in May 2027.<br><br>🔧 My interests span AI and machine learning, control systems, automation, and robotics.  
 I’ve worked on projects ranging from deep learning models for jersey number recognition to automation systems and robotics applications that integrate intelligent decision-making processes. I’m always exploring how to optimize algorithms and develop efficient, real-time solutions for complex systems.<br><br>🚀 Whether it's building autonomous systems or experimenting with AI-driven control techniques, I’m excited by the challenge of bringing smart solutions to life.
