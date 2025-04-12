@@ -8,7 +8,6 @@ I’ve worked on projects ranging from deep learning models for jersey number re
 ## 🔨 Current Projects:
 - **Jersey Number Recognition:** Enhancing deep learning models for jersey number recognition using low-resolution soccer video tracklets.
 - **Ride Matching App:** Developing an app that connects passengers and drivers heading to the same destination, focusing on Java and Android Studio.
-- **Robotic Automation System:** Designing and testing automation systems that incorporate real-time decision-making algorithms to optimize control and efficiency.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jeremy-buss840a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bussjeremy840@gmail.com)
