@@ -1,4 +1,4 @@
-<img src="GitHubbanner" width="1200" height="250" />
+<img src="GitHubbanner.gif" width="1200" height="250" />
 
 ## 💫 About Me:
 <h1>Hi, I'm Jeremy Buss</h1> 
