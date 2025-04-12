@@ -1,4 +1,4 @@
-![Banner](githubbanner.png)
+<img src="githubbanner.png" width="1200" height="250" />
 
 ## 💫 About Me:
 <h1>Hi, I'm Jeremy Buss</h1> 
