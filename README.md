@@ -1,4 +1,4 @@
-<img src="banner.png" width="100%" height="200px" />
+<img src="banner.png" width="1200" height="250" />
 
 ## 💫 About Me:
 <h1>Hi, I'm Jeremy Buss</h1> 
