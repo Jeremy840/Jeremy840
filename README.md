@@ -5,7 +5,7 @@ Hi, my name is **Jeremy Buss**, I’m a 5th-year Electrical Engineering Co-op st
 
 🔧 My interests include **automation, control systems, AI, machine learning, and robotics**.  
 
-Currently, I am on a Co-op working as an Industrial Automation Engineer at Canadian Natural Resources Limited (CNRL), where I am gaining hands-on experience in large-scale industrial automation projects, control systems integration, and real-world problem solving in the energy sector. This placement runs until April 2026.
+Currently, I am on a **Co-op** working as an **Industrial Automation Engineer** at **Canadian Natural Resources Limited (CNRL)**, where I am gaining hands-on experience in large-scale industrial automation projects, control systems integration, and real-world problem solving in the energy sector. This placement runs until April 2026.
 
 ---
 
