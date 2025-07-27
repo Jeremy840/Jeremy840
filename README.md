@@ -53,6 +53,7 @@ Here are some of the LinkedIn Learning courses I have completed:
 - [Machine Learning with Scikit-Learn](https://www.linkedin.com/learning/certificates/885bcf75fb7d22c05b46c49b084dc5be7767e7a7a3d1dc2fbf1cd7b371182344?u=248278122)
 - [Introduction to Deep Learning with OpenCV](https://www.linkedin.com/learning/certificates/215fe80606c2f4fa98af190faee49afdc4ac862ca6e623701475ff6aed2162e6?u=248278122)
 - [TensorFlow: Working with NLP](https://www.linkedin.com/learning/certificates/4c5f9f1bb4f5516558ef7e21ff942a5e04185fcb42acc0c5691846f3cd9876a0?u=248278122)
+- [Machine Learning with Python: k-Means Clustering](https://www.linkedin.com/learning/certificates/d56cf4faf9efa1800eb0f416783bdd78f3ae09098f9ec7ff32c1f4b5d05f174d?u=248278122)
 
 **Automation:**
 - [Become a PLC Developer](https://www.linkedin.com/learning/certificates/11e69053a5b90349ffd5799196cc1a09c54bb72f89ca0c10514b5d3708ad2b71?u=248278122)
