@@ -75,6 +75,7 @@ Here are some of the LinkedIn Learning courses I have completed:
 
 **Programming:**
 - [Getting Started as an ASP.NET Core Developer](https://www.linkedin.com/learning/certificates/0fa3ec20e232e5a058c28f2b627d2629e074f5f1d424601a4e4ff5d9dffb8043?u=248278122)
+- [Complete Guide to Parallel and Concurrent Programming in Python](https://www.linkedin.com/learning/certificates/f11d2a567e1f2f7b619880e0dafb291f4ebc303cc777a440654b19a663014459?u=248278122)
 - [Learning C#](https://www.linkedin.com/learning/certificates/8e298691884f96b341c5f3cdb03f8594cff9321f55c7649c28abaeea4ddbde2f?u=248278122)
 - [Learning ASP.NET Core: MVC, Razor Pages, Web APIs & Other Foundations](https://www.linkedin.com/learning/certificates/498120d4f951ee04f31defaec911f5a33a46d9ee3b3c55740df8ad620d258dfc?u=248278122)
 - [Securing ASP.NET Core Apps: Advanced Techniques for Web Application Security](https://www.linkedin.com/learning/certificates/504c48e5ee2957ac49ed2ba61a2755a440d9c14fe0afd26fe81aadd666610d7f?u=248278122)
