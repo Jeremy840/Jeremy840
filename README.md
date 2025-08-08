@@ -47,6 +47,7 @@ Here are some of the projects I have completed:
 Here are some of the LinkedIn Learning courses I have completed:
 
 **Machine Learning:**
+- [Full-Stack Deep Learning with Python](https://www.linkedin.com/learning/certificates/4dbd6cad8829f017aabceb9e54de81874f47b189788f0b5642c40aa2aa981f98?u=248278122) 
 - [Deep Learning with Python: Sequence Models and Transformers](https://www.linkedin.com/learning/certificates/45ac22634162c4fae2c183abd7b346c8cdc7a4c53d5767249765fffe9ec143d6?u=248278122) 
 - [Building Deep Learning Applications with Keras](https://www.linkedin.com/learning/certificates/4527d14091f4752c69065b32115f146d792e5cbce4d5b0c48b380ec51a3367ed?u=248278122)  
 - [Deep Learning with TensorFlow: Insights and Innovations](https://www.linkedin.com/learning/certificates/e0b8048c606878109a1827bdda040e7822cb1dd9c5739d5f1d4f46a5beb22a64?u=248278122)  
