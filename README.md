@@ -97,6 +97,7 @@ Here are some of the LinkedIn Learning courses I have completed:
 **Software:**
 - [AutoCAD Electrical Essential Training](https://www.linkedin.com/learning/certificates/7881067d573bad6bc8e5e8dcfbab28aeeae854ae343cf3c886496956785a30b4?u=248278122)
 - [Cert Prep: Revit for Electrical Design Professional](https://www.linkedin.com/learning/certificates/46671b9435682707b53da2d547279d785ac9e9c4e50d4dfec22fbfd925c7eae1?u=248278122)
+- [Learning PCB Design with OrCAD](https://www.linkedin.com/learning/certificates/fe7b6b23f7acce6ff4e0216cd6e471633bbe8a3fd02802e143cdca1ba6e265da?u=248278122)
 - [Excel: Learning VBA](https://www.linkedin.com/learning/certificates/d5b982fdf31b1fa3591dbd298e60f8c56c011efc8fbd9b6109811c7866d3d56c?u=248278122)
 - [Power BI Essential Training (2024)](https://www.linkedin.com/learning/certificates/b9046f6f4f341b55a2077ad6c7cb5d25dfa1fb77877b2649bfff18220a4043bf?u=248278122)
 - [Learning Altium](https://www.linkedin.com/learning/certificates/b3f8171cc620e94b3279429052c60427ed8d46665106c89e2120638f2e7a72d3?u=248278122)
