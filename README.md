@@ -1,7 +1,7 @@
 <img src="GitHubbanner.gif" width="1200" height="250" />
 
 ## 👤 About Me
-Hi, my name is **Jeremy Buss**, I’m a 5th-year Electrical Engineering Co-op student at UBC Okanagan with a minor in Computer Science and a concentration in Machatronics, graduating in May 2027.
+Hi, my name is **Jeremy Buss**, I’m a 5th-year Electrical Engineering Co-op student at UBC Okanagan with a minor in Computer Science and a concentration in Mechatronics, aiming to graduate May 2027.
 
 🔧 My interests include **automation, control systems, AI, machine learning, cyberscurity, and robotics**.  
 
