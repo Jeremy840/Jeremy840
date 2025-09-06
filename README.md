@@ -106,7 +106,7 @@ Here are some of the LinkedIn Learning courses I have completed:
 - [Learning Arduino: Interfacing with Hardware](https://www.linkedin.com/learning/certificates/be7ae660b836b5f23ab8523c42adb1c9db005d4e0d96be401d2ca8cfcaa3d4ff?u=248278122)
 - [Learning Arduino: Interfacing with Analog Devices](https://www.linkedin.com/learning/certificates/2454cc479114eea58ebee42598405ec6d0f76e83a85155e3d99d860c80f62d1f?u=248278122)
 - [Introduction to Linux](https://www.linkedin.com/learning/certificates/8abedb0ccb4408863a4d38c6237150cc6181348f3c6ef7f52614031959a03ae2?u=248278122)
-- [Learning Jira (Cloud Edition)]([https://www.linkedin.com/learning/certificates/7881067d573bad6bc8e5e8dcfbab28aeeae854ae343cf3c886496956785a30b4?u=248278122](https://www.linkedin.com/learning/certificates/111dfcf1a05b733acc011ccf56d0faa1667cb6b31430dc880dd5023f2649add6?u=248278122))
+- [Learning Jira (Cloud Edition)](https://www.linkedin.com/learning/certificates/111dfcf1a05b733acc011ccf56d0faa1667cb6b31430dc880dd5023f2649add6?u=248278122)
 
 ---
 
