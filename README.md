@@ -3,7 +3,7 @@
 ## 👤 About Me
 Hi, my name is **Jeremy Buss**, I’m a 5th-year Electrical Engineering Co-op student at UBC Okanagan with a minor in Computer Science and a concentration in Mechatronics, aiming to graduate May 2027.
 
-🔧 My interests include **automation, control systems, AI, machine learning, cyberscurity, and robotics**.  
+🔧 My interests include **automation, control systems, AI, machine learning, cybersecurity, and robotics**.  
 
 Currently, I am on a **Co-op** working as an **Industrial Automation Engineer** at **Canadian Natural Resources Limited (CNRL)**, where I am gaining hands-on experience in large-scale industrial automation projects, control systems integration, and real-world problem solving in the energy sector. This placement runs until April 2026.
 
