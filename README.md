@@ -75,6 +75,7 @@ Here are some of the LinkedIn Learning courses I have completed:
 - [PLC: Industrial Sensors](https://www.linkedin.com/learning/certificates/b7e60c5fe3abc8011b192e29c16fa1053af1f39b11a8d93ac24414973a75c070?u=248278122)
 
 **Programming:**
+- [AWS Essential Training for Developers](https://www.linkedin.com/learning/certificates/f669fa3500ca60eeb7faf4b340bf891eabef013e32eba9c75e3ca21da5ac30f1?u=248278122)
 - [React: Using TypeScript](https://www.linkedin.com/learning/certificates/03aad95873150fc9761638fede361bbf95ce5ec513f8a786cb966216963a340c?u=248278122)
 - [Getting Started as an ASP.NET Core Developer](https://www.linkedin.com/learning/certificates/0fa3ec20e232e5a058c28f2b627d2629e074f5f1d424601a4e4ff5d9dffb8043?u=248278122)
 - [Complete Guide to Parallel and Concurrent Programming in Python](https://www.linkedin.com/learning/certificates/f11d2a567e1f2f7b619880e0dafb291f4ebc303cc777a440654b19a663014459?u=248278122)
